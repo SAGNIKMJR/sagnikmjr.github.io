@@ -19,14 +19,7 @@ Research experience from research assistantship, bachelor thesis and internships
 
 [//]: # ([Submitted manuscript](https://drive.google.com/open?id=1Q3kgJ0BIyIb_dl-aUi-mmVzQ8xl_srfy))
 
-
-Primarily, I have been jointly working on curating the novel COncrete DEfect BRidge IMage dataset (CODEBRIM) for multi-target classification of five commonly appearing concrete defects. We have compared two meta-learning approaches to find suitable convolutional neural network architectures for this challenging multi-class multi-target task. We have observed that learned architectures have less overall parameters in addition to
-yielding better multi-target accuracy in comparison to popular CNN architectures from the literature evaluated in the context of our application. We have jointly submitted a paper from this project to a tier-1 vision conference of the likes of ECCV, CVPR, ICCV etc.
-
-[Submitted manuscript](https://drive.google.com/open?id=1Q3kgJ0BIyIb_dl-aUi-mmVzQ8xl_srfy)
-
-
-I also got an opportunity to investigate a common trend of montonically incrementing feature amount with depth in a convolutional neural network (CNN). Several architectures with the same total feature amount but with different distribution of features across layers were trained and their performance vis-a-vis a certain task were compared. The comparison resulted in some interesting observations which questioned the afore-mentioned common practice. I co-authored a paper from this investigation at the [NeurIPS CRACT 2018 workshop](https://ml-critique-correct.github.io/)
+I got an opportunity to investigate a common trend of montonically incrementing feature amount with depth in a convolutional neural network (CNN). Several architectures with the same total feature amount but with different distribution of features across layers were trained and their performance vis-a-vis a certain task were compared. The comparison resulted in some interesting observations which questioned the afore-mentioned common practice. I co-authored a paper from this investigation at the [NeurIPS CRACT 2018 workshop](https://ml-critique-correct.github.io/)
 
 [Publication](https://www.dropbox.com/s/vjt0on2dxizzv8v/CRACT_2018_paper_19.pdf?dl=0)|[Codebase](https://github.com/MrtnMndt/Rethinking_CNN_Layerwise_Feature_Amounts)
 

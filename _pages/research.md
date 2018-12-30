@@ -14,7 +14,8 @@ Research experience from research assistantship, bachelor thesis and internships
 <small>Topics : Continuous learning, open set recognition and meta-learning  </small>
 
 <small>Duration: July 2018 - Present</small>
-[comment]: <> (Primarily, I have been jointly working on curating the novel COncrete DEfect BRidge IMage dataset (CODEBRIM) for multi-target classification of five commonly appearing concrete defects. We have compared two meta-learning approaches to find suitable convolutional neural network architectures for this challenging multi-class multi-target task. We have observed that learned architectures have less overall parameters in addition to
+
+[//]: # (Primarily, I have been jointly working on curating the novel COncrete DEfect BRidge IMage dataset (CODEBRIM) for multi-target classification of five commonly appearing concrete defects. We have compared two meta-learning approaches to find suitable convolutional neural network architectures for this challenging multi-class multi-target task. We have observed that learned architectures have less overall parameters in addition to
 yielding better multi-target accuracy in comparison to popular CNN architectures from the literature evaluated in the context of our application. We have jointly submitted a paper from this project to a tier-1 vision conference of the likes of ECCV, CVPR, ICCV etc.
 
 [Submitted manuscript](https://drive.google.com/open?id=1Q3kgJ0BIyIb_dl-aUi-mmVzQ8xl_srfy)

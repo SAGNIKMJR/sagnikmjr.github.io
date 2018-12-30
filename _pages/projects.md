@@ -94,6 +94,7 @@ The relevant projects from my undergraduate days.
 
 # Wireless Sensor Networks Systems Laboratory @ CSIR-CEERI Pilani
 <small>Mentor : [Dr. Kota Solomon Raju](https://sites.google.com/site/drsolomonrcswsn/)</small>
+
 <small>Topic : Signal denoising of household power lines using wavelet transform in python</small>
 
 <small>Duration: August - December 2016</small>

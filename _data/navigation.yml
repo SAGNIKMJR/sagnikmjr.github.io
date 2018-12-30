@@ -1,0 +1,23 @@
+# main links links
+main:
+  - title: "About"
+    url: /about/   
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Projects"
+    url : /projects/	  
+
+  - title: "Publications"
+    url : /publications/ 
+
+  - title: "Curriculum Vitae"
+    url: http://sagnikmjr.github.io/files/CV.pdf
+
+  - title: "Teaching Experience"
+    url : /teaching/
+
+  # - title: "Blog"
+  #   url : /posts/
+

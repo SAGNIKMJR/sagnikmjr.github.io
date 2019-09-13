@@ -82,9 +82,9 @@ In a mobile mapping system, a global positioning system (GPS) measures time and 
 [AEROBI]:<http://www.aerobi.eu/>
 [WACV 2019]:<http://wacv19.wacv.net/>
 [Thesis Report]:<https://sagnikmjr.github.io/files/Bachelor_Thesis_Report.pdf>
-[Codebase - Architecture Search - Image Classification]:<https://github.com/SAGNIKMJR/MetaQNN_ImageClassification_PyTorch>
-[Codebase - Architecture Search - Image Generation - VCAE]:<https://github.com/SAGNIKMJR/MetaQNN_ImageGenerationVCAE_PyTorch>
-[Codebase - Architecture Search - Image Generation - GAN]:<https://github.com/SAGNIKMJR/MetaQNN_ImageGenerationGAN_DiscriminatorFixed_PyTorch>
+[CNN Codebase]:<https://github.com/SAGNIKMJR/MetaQNN_ImageClassification_PyTorch>
+[VCAE Codebase]:<https://github.com/SAGNIKMJR/MetaQNN_ImageGenerationVCAE_PyTorch>
+[GAN Codebase]:<https://github.com/SAGNIKMJR/MetaQNN_ImageGenerationGAN_DiscriminatorFixed_PyTorch>
 [Prof. Christoph von der Malsburg]:<https://en.wikipedia.org/wiki/Christoph_von_der_Malsburg>
 [JCP 2018]:<http://www.jcomputers.us/>
 [Publication]:<http://www.jcomputers.us/index.php?m=content&c=index&a=show&catid=201&id=2862>

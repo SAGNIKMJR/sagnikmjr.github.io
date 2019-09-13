@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sagnik Majumder"
 title_separator          : "-"
 name                     : &name "Sagnik Majumder"
-description              : &description "Research Assistant @ Center for Cognition and Computation, Goethe University, Frankfurt"
+description              : &description "MS Computer Science candidate at the University of Texas at Austin"
 url                      : https://sagnikmjr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sagnikmjr.github.io"
@@ -81,13 +81,14 @@ analytics:
 author:
   name             : "Sagnik Majumder"
   avatar           : "profile.jpg"
-  bio              : "BITS Pilani Graduate in Electronics and Instrumentation\n\n \
+  bio              : "MS Computer Science @ UT Austin\n\n \
                       Research Assistant @ Center for Computation and Cognition, \
-                      Goethe University"
+                      Goethe University \n\n\
+                      BE(Hons) Electronics and Instrumentation @ BITS Pilani"
   location         : "Frankfurt"
   employer         :
   googlescholar    : 
-  email            : "sagnikmjr2002@gmail.com"
+  email            : "sagnik@cs.utexas.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -95,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SAGNIKMJR"
+  github           : "sagnikmjr"
   # quora            : Sagnik-Majumder-3
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : sagnik-majumder-b62527106
+  linkedin         : sagnikmjr
   orcid            : 
   pinterest        :
   soundcloud       :

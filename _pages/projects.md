@@ -59,10 +59,10 @@ The relevant projects from my undergraduate days.
 * Features from the collected data were centered around the feature means and scaled down by the inverse of the feature standard deviations
 * Several regression models (3-layered feedforward fully-connected neural network, Random Forrests, Support Vector Regression, Polynomial Regression) were trained on the collected data for temperature compensation
 * Majority of the code was written using scikit learn and numpy in python. 
-* A paper from this work was published at [IEEE RSM 2017](https://ieeexplore.ieee.org/document/8069141/)
+* Two papers from this work have been published at [IEEE RSM 2017](https://ieeexplore.ieee.org/document/8069141/) and [IJCTA 2019](https://onlinelibrary.wiley.com/journal/1097007x)
 
 
-[Publication](https://sagnikmjr.github.io/files/Temperature_Compensation_of_ISFET_Based_pH_Sensor_Using_Artificial_Neural_Networks.pdf)
+[Publication 1](https://sagnikmjr.github.io/files/Temperature_Compensation_of_ISFET_Based_pH_Sensor_Using_Artificial_Neural_Networks.pdf)|[Publciation 2](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cta.2618)
 
 
 # Minor Projects:

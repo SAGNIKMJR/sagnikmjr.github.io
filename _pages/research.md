@@ -65,7 +65,7 @@ My bachelor thesis involved the study of reinforcement learning based architectu
 
 In this project, I designed a principled image recognition system that uses neural graph matching between model and image planes, and Gabor filters for feature extraction. The system involves a dynamic two-dimensional graph with Gabor filter stacks (corresponding to different orientations and frequencies) at each node. The dynamic nature of the graph (dynamic link architecture) allows for global positioning of the whole grid corresponding to the center of gravity of the object to be recognized and local restricted movements of the nodes to account for local translations of object pixels and rotation of the grid and individual Gabor wavelets to offset the non-zero orientation, if any, of the object under consideration. This leads to rotation and tranlation invariance of the system. This dynamic image graph us then matched against stored model graphs and the model graph with the best match gives the identity/label of the object recognized. I published a paper on MNIST recognition at [JCP 2018].The code for this project is in numpy. 
 
-[Publication]|[Codebase]
+[Publication]|[Codebase](https://github.com/SAGNIKMJR/HandwrittenDigitRecognition_ElasticMatching_Python)
 
 # Research Internship @ Indian Institute of Remote Sensing
 <small>Mentor : [Ms. Shefali Agarwal]</small> 
@@ -88,7 +88,6 @@ In a mobile mapping system, a global positioning system (GPS) measures time and 
 [Prof. Christoph von der Malsburg]:<https://en.wikipedia.org/wiki/Christoph_von_der_Malsburg>
 [JCP 2018]:<http://www.jcomputers.us/>
 [Publication]:<http://www.jcomputers.us/index.php?m=content&c=index&a=show&catid=201&id=2862>
-[Codebase - Handwritten Image Recognition - Elastic Graph Matching]:<https://github.com/SAGNIKMJR/HandwrittenDigitRecognition_ElasticMatching_Python>
 [Ms. Shefali Agarwal]:<https://www.iirs.gov.in/Shefali-profile>
 [Paper Presentation]:<https://sagnikmjr.github.io/files/Time_Synchronisation_in_Mobile_Mapping_System.pdf>
 [Codebase - Time Synchronization - Mobile Mapping System]:<https://github.com/SAGNIKMJR/Time-Synchronisation-of-Mobile-Mapping-System>

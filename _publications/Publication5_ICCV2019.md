@@ -7,8 +7,7 @@ date: 2019-08-26
 venue: 'ICCV SDLCV 2018, Seoul'
 paperurl: 'https://arxiv.org/abs/1908.09625'
 
-citation: 'Martin Mundt, Iuliia Pliushch, <b>Sagnik Majumder</b>, Visvanathan Ramesh, &quot;Rethinking Layer-wise Feature Amounts in Convolutional Neural Network Architectures&quot; In: International Conference on Computer Vision (ICCV) 2019, Stastical Deep Learning for Computer Vision (SDLCV) Workshop.
-'
+citation: 'Martin Mundt, Iuliia Pliushch, <b>Sagnik Majumder</b>, Visvanathan Ramesh, &quot;Rethinking Layer-wise Feature Amounts in Convolutional Neural Network Architectures&quot; In: International Conference on Computer Vision (ICCV) 2019, Stastical Deep Learning for Computer Vision (SDLCV) Workshop.'
 
 #  <i>Published in ICCV SDLCV 2019, Seoul, South Korea</i>.
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Handwritten Digit Recognition by Elastic Matching"
 collection: publications
-permalink: /publication/1/
+permalink: /publication/3/
 excerpt: 'A simple model of MNIST handwritten digit recognition is presented here. The model is an
 adaptation of a previous theory of face recognition. It realizes translation and rotation invariance in a
 principled way instead of being based on extensive learning from large masses of sample data. The presented

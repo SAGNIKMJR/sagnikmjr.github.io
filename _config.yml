@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Sagnik Majumder"
   avatar           : "profile.jpg"
-  bio              : "MS Computer Science @ UT Austin\n\n \
+  bio              : "MS Computer Science @ UT Austin; \n\n \
                       Research Assistant @ Center for Computation and Cognition, \
-                      Goethe University \n\n\
+                      Goethe University; \n\n\ \
                       BE(Hons) Electronics and Instrumentation @ BITS Pilani"
-  location         : "Frankfurt"
+  location         : "Austin, Texas, United States"
   employer         :
   googlescholar    : 
   email            : "sagnik@cs.utexas.edu"

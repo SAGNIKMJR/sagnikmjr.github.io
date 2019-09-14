@@ -1,4 +1,29 @@
 ---
+title: "Rethinking Layer-wise Feature Amounts in Convolutional Neural Network Architectures"
+collection: publications
+permalink: /publication/5/
+excerpt: 'We characterize convolutional neural networks with respect to the relative amount of features per layer. Using a skew normal distribution as a parametrized framework, we investigate the common assumption of monotonously increasing feature-counts with higher layers of architecture designs. Our evaluation on models with VGG-type layers on the MNIST, Fashion-MNIST and CIFAR-10 image classification benchmarks provides evidence that motivates rethinking of our common assumption: architectures that favor larger early layers seem to yield better accuracy.'
+date: 2018-12-07
+venue: 'NeurIPS CRACT 2018, Canada'
+paperurl: 'https://arxiv.org/abs/1812.05836'
+
+citation: 'Martin Mundt, <b>Sagnik Majumder</b>, Tobias Weis, Visvanathan Ramesh, &quot;Rethinking Layer-wise Feature Amounts in Convolutional Neural Network Architectures&quot; In: International Conference on Neural Information Processing Systems (NeurIPS) 2018, Critiquing and Correcting Trends in Machine Learning (CRACT) Workshop.
+'
+
+#  <i>Published in NeurIPS CRACT 2018, Montreal, Canada</i>.
+---
+Abstract: We characterize convolutional neural networks with respect to the relative amount
+of features per layer. Using a skew normal distribution as a parametrized framework,
+we investigate the common assumption of monotonously increasing feature-counts
+with higher layers of architecture designs. Our evaluation on models with VGG-
+type layers on the MNIST, Fashion-MNIST and CIFAR-10 image classification
+benchmarks provides evidence that motivates rethinking of our common assump-
+tion: architectures that favor larger early layers seem to yield better accuracy.
+
+[Download paper here](https://arxiv.org/pdf/1812.05836.pdf)
+
+
+<!-- ---
 title: "Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?"
 collection: publications
 permalink: /publication/5/
@@ -13,4 +38,4 @@ citation: 'Martin Mundt, Iuliia Pliushch, <b>Sagnik Majumder</b>, Visvanathan Ra
 ---
 Abstract: We present an analysis of predictive uncertainty based out-of-distribution detection for different approaches to estimate various models' epistemic uncertainty and contrast it with extreme value theory based open set recognition. While the former alone does not seem to be enough to overcome this challenge, we demonstrate that uncertainty goes hand in hand with the latter method. This seems to be particularly reflected in a generative model approach, where we show that posterior based open set recognition outperforms discriminative models and predictive uncertainty based outlier rejection, raising the question of whether classifiers need to be generative in order to know what they have not seen.
 
-[Download paper here](https://arxiv.org/pdf/1908.09625.pdf)
+[Download paper here](https://arxiv.org/pdf/1908.09625.pdf) -->

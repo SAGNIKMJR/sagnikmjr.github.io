@@ -1,35 +1,17 @@
-<!-- ---
-title: "Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition"
+---
+title: "Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?"
 collection: publications
 permalink: /publication/6/
-excerpt: "bla"
-date: 2019-28-05
-venue: 'Somewhere'
+excerpt: "We present an analysis of predictive uncertainty based out-of-distribution detection for different approaches to estimate various models' epistemic uncertainty and contrast it with extreme value theory based open set recognition. While the former alone does not seem to be enough to overcome this challenge, we demonstrate that uncertainty goes hand in hand with the latter method. This seems to be particularly reflected in a generative model approach, where we show that posterior based open set recognition outperforms discriminative models and predictive uncertainty based outlier rejection, raising the question of whether classifiers need to be generative in order to know what they have not seen."
+date: 2018-12-07
+venue: 'ICCV SDLCV 2019, Seoul'
+paperurl: 'https://arxiv.org/abs/1908.09625'
 
- paperurl: 'https://arxiv.org/abs/1905.12019'
-
-citation: 'Martin Mundt, <b>Sagnik Majumder</b>, Iuliia Pliushch, Visvanathan Ramesh, &quot;Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition&quot; In: ArXiv.'
+citation: 'Martin Mundt, Iuliia Pliushch, <b>Sagnik Majumder</b>, Visvanathan Ramesh, &quot;Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?&quot; In: International Conference on Computer Vision (ICCV) 2019, Stastical Deep Learning for Computer Vision (SDLCV) Workshop.
+'
 
 #  <i>Published in ICCV SDLCV 2019, Seoul, South Korea</i>.
-
- ---
-Abstract: bla
-
-[Download paper here](https://arxiv.org/pdf/1905.12019.pdf) -->
-
 ---
-title: "Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition"
-collection: publications
-permalink: /publication/6/
-excerpt: "We introduce a unified probabilistic approach for deep continual learning based on variational Bayesian inference with open set recognition. Our model combines a probabilistic encoder with a generative model and a generative linear classifier that get shared across tasks. The open set recognition bounds the approximate posterior by fitting regions of high density on the basis of correctly classified data points and balances open-space risk with recognition errors. Catastrophic inference for both generative models is significantly alleviated through generative replay, where the open set recognition is used to sample from high density areas of the class specific posterior and reject statistical outliers. Our approach naturally allows for forward and backward transfer while maintaining past knowledge without the necessity of storing old data, regularization or inferring task labels. We demonstrate compelling results in the challenging scenario of incrementally expanding the single-head classifier for both class incremental visual and audio classification tasks, as well as incremental learning of datasets across modalities."
-date: 2018-12-07
-venue: 'NeurIPS CRACT 2018, Canada'
-paperurl: 'https://arxiv.org/abs/1905.12019'
+Abstract: We present an analysis of predictive uncertainty based out-of-distribution detection for different approaches to estimate various models' epistemic uncertainty and contrast it with extreme value theory based open set recognition. While the former alone does not seem to be enough to overcome this challenge, we demonstrate that uncertainty goes hand in hand with the latter method. This seems to be particularly reflected in a generative model approach, where we show that posterior based open set recognition outperforms discriminative models and predictive uncertainty based outlier rejection, raising the question of whether classifiers need to be generative in order to know what they have not seen.
 
-citation: 'Martin Mundt, <b>Sagnik Majumder</b>, Iuliia Pliushch, Visvanathan Ramesh, &quot;Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition&quot; In: ArXiv.'
-
-#  <i>Published in NeurIPS CRACT 2018, Montreal, Canada</i>.
----
-Abstract: We introduce a unified probabilistic approach for deep continual learning based on variational Bayesian inference with open set recognition. Our model combines a probabilistic encoder with a generative model and a generative linear classifier that get shared across tasks. The open set recognition bounds the approximate posterior by fitting regions of high density on the basis of correctly classified data points and balances open-space risk with recognition errors. Catastrophic inference for both generative models is significantly alleviated through generative replay, where the open set recognition is used to sample from high density areas of the class specific posterior and reject statistical outliers. Our approach naturally allows for forward and backward transfer while maintaining past knowledge without the necessity of storing old data, regularization or inferring task labels. We demonstrate compelling results in the challenging scenario of incrementally expanding the single-head classifier for both class incremental visual and audio classification tasks, as well as incremental learning of datasets across modalities.
-
-[Download paper here](https://arxiv.org/pdf/1905.12019.pdf)
+[Download paper here](https://arxiv.org/pdf/1908.09625.pdf)

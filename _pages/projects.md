@@ -9,10 +9,10 @@ redirect_from:
 
 Relevant course projects from both my bachelor's and master's degrees. 
 
-# Small-scale Projects:
+# Small-scale Projects --
 
 # Student in RL: Techniques and Theory course @ UT Austin
-<small>Mentors : [Prof. Peter Stone], [Prof. Scott Nieukum]</small>
+<small>Mentors : [Prof. Peter Stone], [Prof. Scott Niekum]</small>
 
 <small>Topic : Image to text translation with deep neural networks for the speech impaired</small>
 
@@ -78,7 +78,7 @@ Relevant course projects from both my bachelor's and master's degrees.
 [Publication 1](https://sagnikmjr.github.io/files/Temperature_Compensation_of_ISFET_Based_pH_Sensor_Using_Artificial_Neural_Networks.pdf)|[Publciation 2](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cta.2618)
 
 
-# Toy Projects:
+# Toy Projects --
 
 # Multimedia Research Laboratory @ BITS Pilani
 <small>Mentor : [Prof. Kamlesh Tiwari]</small>

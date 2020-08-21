@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Projects --"
+title: "Course Projects --"
 excerpt: "Undergrad/Course Projects"
 author_profile: true
 permalink: /projects/
@@ -7,9 +7,22 @@ redirect_from:
   - /tags/
 ---
 
-The relevant projects from my undergraduate days. 
+Relevant course projects from both my bachelor's and master's degrees. 
 
-# Laboratory/Design Projects:
+# Small-scale Projects:
+
+# Student in RL: Techniques and Theory course @ UT Austin
+<small>Mentors : [Prof. Peter Stone], [Prof. Scott Nieukum]</small>
+
+<small>Topic : Image to text translation with deep neural networks for the speech impaired</small>
+
+<small>Duration: August - December 2017</small>
+
+* rained an RL agent using the REINFORCE algorithm to autonomously complete web tasks like booking a flight, sending an email, etc.
+* Used the workflow guided exploration strategy from the literature that allows for constrained explorations around limited demonstrations, to improve learning with limited data
+* Practically demonstrated the efficacy of densifying rewards in the context of autonomous web navigation and parsing
+
+[Github Repo](https://github.com/SAGNIKMJR/autoweb)
 
 # Multimedia Research Laboratory @ BITS Pilani
 <small>Mentors : [Prof. Kamlesh Tiwari], [Prof. Surekha Bhanot]</small>
@@ -65,7 +78,7 @@ The relevant projects from my undergraduate days.
 [Publication 1](https://sagnikmjr.github.io/files/Temperature_Compensation_of_ISFET_Based_pH_Sensor_Using_Artificial_Neural_Networks.pdf)|[Publciation 2](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cta.2618)
 
 
-# Minor Projects:
+# Toy Projects:
 
 # Multimedia Research Laboratory @ BITS Pilani
 <small>Mentor : [Prof. Kamlesh Tiwari]</small>
@@ -110,8 +123,5 @@ The relevant projects from my undergraduate days.
 [ImageNet]:<http://www.image-net.org/>
 [AlexNet]:<https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf>
 [Tiny Shakespeare]:<https://github.com/karpathy/char-rnn/tree/master/data/tinyshakespeare>
-
-
-
-
-
+[Prof. Peter Stone]:<https://www.cs.utexas.edu/~pstone/>
+[Prof. Scott Niekum]:<http://www.cs.utexas.edu/users/sniekum/index.php>

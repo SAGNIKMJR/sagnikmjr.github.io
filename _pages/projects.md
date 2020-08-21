@@ -18,7 +18,7 @@ Relevant course projects from both my bachelor's and master's degrees.
 
 <small>Duration: August - December 2017</small>
 
-* rained an RL agent using the REINFORCE algorithm to autonomously complete web tasks like booking a flight, sending an email, etc.
+* Trained an RL agent using the REINFORCE algorithm to autonomously complete web tasks like booking a flight, sending an email, etc.
 * Used the workflow guided exploration strategy from the literature that allows for constrained explorations around limited demonstrations, to improve learning with limited data
 * Practically demonstrated the efficacy of densifying rewards in the context of autonomous web navigation and parsing
 

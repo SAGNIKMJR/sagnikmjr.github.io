@@ -22,7 +22,7 @@ Relevant course projects from both my bachelor's and master's programs.
 * Used the workflow guided exploration strategy from the literature that allows for constrained explorations around limited demonstrations, to improve learning with limited data
 * Practically demonstrated the efficacy of densifying rewards in the context of autonomous web navigation and parsing
 
-[Github Repo](https://github.com/SAGNIKMJR/autoweb)
+[Project Report](https://github.com/SAGNIKMJR/autoweb/blob/master/report.pdf)|[Codebase](https://github.com/SAGNIKMJR/autoweb)
 
 # Multimedia Research Laboratory @ BITS Pilani
 <small>Mentors : [Prof. Kamlesh Tiwari], [Prof. Surekha Bhanot]</small>

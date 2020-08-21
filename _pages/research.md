@@ -23,6 +23,19 @@ My first project as a GRA in the UT CS vision group led by Prof. Kristen Grauman
 
 I am currently working on a novel and very interesting problem of audio separation using active and embodied learning. More project details will be shared upon completion.
 
+# Student in Graduate NLP course 
+<small>Mentors : [Prof. Greg Durrett]</small> 
+
+<small>Topic : Adversarial robustness in question answering  </small>
+
+<small>Duration: October 2019 - July 2020</small>
+
+<!-- [//]: # (Primarily, I have been jointly working on curating the novel COncrete DEfect BRidge IMage dataset (CODEBRIM) for multi-target classification of five commonly appearing concrete defects. We have compared two meta-learning approaches to find suitable convolutional neural network architectures for this challenging multi-class multi-target task. We have observed that learned architectures have less overall parameters in addition to yielding better multi-target accuracy in comparison to popular CNN architectures from the literature evaluated in the context of our application. We have jointly submitted a paper from this project to a tier-1 vision conference of the likes of ECCV, CVPR, ICCV etc.) 
+
+[//]: # ([Submitted manuscript](https://drive.google.com/open?id=1Q3kgJ0BIyIb_dl-aUi-mmVzQ8xl_srfy)) -->
+
+I got a chance to informally work with Prof. Greg Durrett, a UT CS professor and PI in the TAUR NLP group, and build a novel state-of-the-art adversarial defense for question answering (QA) that uses a model-agnostic answer reranking mechanism by computing named entity overlap between questions and candidate answers. Despite employing a relatively simple heuristical ranking technique for defense, it was able to beat the previous state-of-the-art and raise some pertinent questions vis-a-vis prominent adversarial attack and defense methods in QA: how well designed the adversarial attack benchmarks are and how generalizable the proposed defense techniques are. A paper from this work is under submission at a tier-1 NLP conference. <b>Code and paper are to be released upon deanonymization</b>.
+
 # Research Assistantship @ Goethe University Frankfurt 
 <small>Mentors : [Prof. Visvanathan Ramesh]</small> 
 
@@ -114,3 +127,4 @@ In a mobile mapping system, a global positioning system (GPS) measures time and 
 [ENAS]:<https://arxiv.org/abs/1802.03268>
 [Mr. Martin Mundt]:<http://martin-mundt.com/>
 [Prof. Kristen Grauman]:<http://www.cs.utexas.edu/users/grauman/>
+[Prof. Greg Durrett]:<https://www.cs.utexas.edu/~gdurrett/>

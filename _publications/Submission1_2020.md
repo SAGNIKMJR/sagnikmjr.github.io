@@ -1,0 +1,16 @@
+---
+title: "Meta-Learning Convolutional Neural Architectures for Multi-Target Concrete Defect Classification With the COncrete DEfect BRidge IMage Dataset"
+collection: publications
+permalink: /publication/8/
+excerpt: "In audio-visual navigation, an agent intelligently travels through a complex, un-mapped 3D environment using both sights and sounds to find a sound source (e.g.,a phone ringing in another room). Existing models learn to act at a fixed granularityof agent motion and rely on simple recurrent aggregations of the audio observations.We introduce a reinforcement learning approach to audio-visual navigation withtwo key novel elements 1) audio-visual waypoints that are dynamically set andlearned end-to-end within the navigation policy, and 2) an acoustic memory thatprovides a structured, spatially grounded record of what the agent has heard asit moves.  Both new ideas capitalize on the synergy of audio and visual data forrevealing the geometry of an unmapped space. We demonstrate our approach on thechallenging Replica environments of real-world 3D scenes. Our model improvesthe state of the art by a substantial margin, and our experiments reveal that learningthe links between sights, sounds, and space is essential for audio-visual navigation."
+date: TBD
+venue: 'TBD'
+paperurl: 'https://sagnikmjr.github.io/publications/'
+
+citation: 'TBD'
+
+#  <i>Under submission</i>.
+---
+Abstract: In audio-visual navigation, an agent intelligently travels through a complex, un-mapped 3D environment using both sights and sounds to find a sound source (e.g.,a phone ringing in another room). Existing models learn to act at a fixed granularityof agent motion and rely on simple recurrent aggregations of the audio observations.We introduce a reinforcement learning approach to audio-visual navigation withtwo key novel elements 1) audio-visual waypoints that are dynamically set andlearned end-to-end within the navigation policy, and 2) an acoustic memory thatprovides a structured, spatially grounded record of what the agent has heard asit moves.  Both new ideas capitalize on the synergy of audio and visual data forrevealing the geometry of an unmapped space. We demonstrate our approach on thechallenging Replica environments of real-world 3D scenes. Our model improvesthe state of the art by a substantial margin, and our experiments reveal that learningthe links between sights, sounds, and space is essential for audio-visual navigation.
+
+<!-- [Download paper here](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mundt_Meta-Learning_Convolutional_Neural_Architectures_for_Multi-Target_Concrete_Defect_Classification_With_CVPR_2019_paper.pdf) -->

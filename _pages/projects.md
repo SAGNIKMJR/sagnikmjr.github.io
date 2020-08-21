@@ -7,7 +7,7 @@ redirect_from:
   - /tags/
 ---
 
-Relevant course projects from both my bachelor's and master's degrees. 
+Relevant course projects from both my bachelor's and master's programs. 
 
 # Small-scale Projects --
 

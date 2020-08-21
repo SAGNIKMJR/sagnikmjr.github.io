@@ -6,7 +6,7 @@ excerpt: "Numerous methods have been proposed as defenses against adversarial ex
 <!-- date: TBD -->
 venue: '<b>TBD</b>'
 paperurl: ''
-citation: 'Citation -- <i><b>TBD</b></i>'
+citation: 'Citation <i><b>TBD</b></i>'
 
 #  <i>Under submission</i>.
 ---

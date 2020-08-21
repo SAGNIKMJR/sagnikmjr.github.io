@@ -1,5 +1,5 @@
 ---
-title: "Research Experience -"
+title: "Research Experience --"
 excerpt: "Research papers/reports/codebase"
 author_profile: true
 permalink: /research/
@@ -8,8 +8,23 @@ redirect_from:
 ---
 Research experience from research assistantship, bachelor thesis and internships
 
+# Graduate Research Assistantship @ UT CS vision group 
+<small>Mentors : [Prof. Kristen Grauman]</small> 
+
+<small>Topics : Audio-visual learning and embodied navigation  </small>
+
+<small>Duration: January 2020 - present</small>
+
+<!-- [//]: # (Primarily, I have been jointly working on curating the novel COncrete DEfect BRidge IMage dataset (CODEBRIM) for multi-target classification of five commonly appearing concrete defects. We have compared two meta-learning approaches to find suitable convolutional neural network architectures for this challenging multi-class multi-target task. We have observed that learned architectures have less overall parameters in addition to yielding better multi-target accuracy in comparison to popular CNN architectures from the literature evaluated in the context of our application. We have jointly submitted a paper from this project to a tier-1 vision conference of the likes of ECCV, CVPR, ICCV etc.) 
+
+[//]: # ([Submitted manuscript](https://drive.google.com/open?id=1Q3kgJ0BIyIb_dl-aUi-mmVzQ8xl_srfy)) -->
+
+My first project as a GRA in the UT CS vision group led by Prof. Kristen Grauman involved developing a novel subgoal prediction system for the task of navigation to an audio emitting source placed inside an indoor simulation environment (Facebook AI Habitat). The system combined the best of 2 worlds: RL and SLAM based navigation, and had the ability to predict subgoals at a self-adaptive granularity as intermediate navigation points that are reached using a metric mapper and analytical planner. We also added a novel acoustic memory to record already-heard sound intensity so that it gives a better sense of audio-source direction to the agent. Both these features helped the proposed model beat the pre-existing state-of-the-art end-to-end RL based and supervised learning based navigation systems. A joint paper from this work is under review at a tier-1 ML conference. <b>Preprint and code are to be released soon</b>.
+
+I am currently working on a novel and very interesting problem of audio separation using active and embodied learning. More project details will be shared upon completion.
+
 # Research Assistantship @ Goethe University Frankfurt 
-<small>Mentors : [Prof. Visvanathan Ramesh], [Mr. Martin Mundt]</small> 
+<small>Mentors : [Prof. Visvanathan Ramesh]</small> 
 
 <small>Topics : Continuous learning, statistical outlier detection, Bayesian inference, Generative models  </small>
 
@@ -98,3 +113,4 @@ In a mobile mapping system, a global positioning system (GPS) measures time and 
 [MetaQNN]:<https://arxiv.org/abs/1611.02167>
 [ENAS]:<https://arxiv.org/abs/1802.03268>
 [Mr. Martin Mundt]:<http://martin-mundt.com/>
+[Prof. Kristen Grauman]:<http://www.cs.utexas.edu/users/grauman/>

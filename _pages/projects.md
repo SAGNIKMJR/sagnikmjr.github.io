@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Projects -"
+title: "Undergraduate Projects --"
 excerpt: "Undergrad/Course Projects"
 author_profile: true
 permalink: /projects/

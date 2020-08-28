@@ -6,7 +6,7 @@ excerpt: "In audio-visual navigation, an agent intelligently travels through a c
 <!-- date: TBD -->
 venue: '<b>TBD</b>'
 paperurl: 'https://arxiv.org/abs/2008.09622'
-citation: 'Citation <i><b>TBD</b></i>'
+citation: '<b>ArXiv URL: </b>'
 
 #  <i>Under submission</i>.
 ---

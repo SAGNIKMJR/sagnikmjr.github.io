@@ -6,7 +6,9 @@ excerpt: "In audio-visual navigation, an agent intelligently travels through a c
 <!-- date: TBD -->
 venue: '<b>TBD</b>'
 paperurl: 'https://arxiv.org/abs/2008.09622'
-citation: '<b>ArXiv URL: </b>'
+citation: 'Changan Chen, <b>Sagnik Majumder</b>, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen
+Grauman. &quot;Audio-Visual Waypoints for Navigation&quot; In: arXiv.
+'
 
 #  <i>Under submission</i>.
 ---

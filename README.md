@@ -1,2 +1,1 @@
-# sagnikmjr.github.io
-Sagnik Majumder's Portfolio
+This is the source code to Sagnik Majumder's webpage.

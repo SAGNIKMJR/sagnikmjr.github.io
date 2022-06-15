@@ -138,6 +138,37 @@
 
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
+	<tr onmouseout="fs_rir_start()" onmouseover="fs_rir_stop()">
+	    <td width="35%">
+		<div class="one">
+		    <div class="two" id='fs_rir'><img src='images/fs_rir.png' alt="sym" width="100%"
+		                                    style="border-style: none"></div>
+		</div>
+		<script type="text/javascript">
+		    function fs_rir_start() {
+		        document.getElementById('fs_rir').style.opacity = "0.9";
+		    }
+
+		    function davis_stop() {
+		        document.getElementById('fs_rir').style.opacity = "1";
+		    }
+
+		    friendly_stop()
+		</script>
+	    </td>
+	    <td valign="top" width="65%">
+		<p><a href="">
+		    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+		    <heading>Few-Shot Audio-Visual Learning of Environment Acoustics</heading>
+		</a><br>
+		    <strong>Sagnik Majumder</strong>, Changan Chen*, Ziad Al-Halah*, Kristen Grauman<br>
+		    <em>*Equal contribution<br></em>
+		    <em>arXiv 2022<br></em>
+		    <a href="https://arxiv.org/pdf/2206.04006.pdf">paper</a> |
+		    <a href="https://vision.cs.utexas.edu/projects/fs_rir/">project</a>
+	    </td>
+	</tr>
+
 	<tr onmouseout="davis_start()" onmouseover="davis_stop()">
 	    <td width="35%">
 		<div class="one">
@@ -158,7 +189,7 @@
 	    </td>
 	    <td valign="top" width="65%">
 		<p><a href="">
-		    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+		    <!--<img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">-->
 		    <heading>Active Audio-Visual Separation of Dynamic Sound Sources</heading>
 		</a><br>
 		    <strong>Sagnik Majumder</strong>, Ziad Al-Halah, Kristen Grauman<br>
@@ -189,7 +220,7 @@
 	    </td>
 	    <td valign="top" width="65%">
 		<p><a href="">
-		    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+		    <!--<img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">-->
 		    <heading>Move2Hear: Active Audio-Visual Source Separation</heading>
 		</a><br>
 		    <strong>Sagnik Majumder</strong>, Ziad Al-Halah, Kristen Grauman<br>

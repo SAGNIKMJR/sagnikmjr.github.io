@@ -212,6 +212,39 @@
 
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
+	<tr onmouseout="chat2map_start()" onmouseover="chat2map_stop()">
+	    <td width="35%">
+		<div class="one">
+		    <div class="two" id='chat2map'><img src='images/chat2map.png' alt="sym" width="100%"
+		                                    style="border-style: none"></div>
+		</div>
+		<script type="text/javascript">
+		    function chat2map_start() {
+		        document.getElementById('chat2map').style.opacity = "0.9";
+		    }
+
+		    function chat2map_stop() {
+		        document.getElementById('chat2map').style.opacity = "1";
+		    }
+
+		    friendly_stop()
+		</script>
+	    </td>
+	    <td valign="top" width="65%">
+		<p><a href="">
+		    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+		    <heading>Chat2Map: Efficient Scene Mapping from Multi-Ego Conversations</heading>
+		</a><br>
+		    <strong>Sagnik Majumder</strong>, Hao Jiang, Pierre Moulon, Ethan Henderson, Paul Calamia, Kristen Grauman, Vamsi Krishna Ithapu<br>
+		    <!--<em>*Equal contribution<br></em>-->
+		    <em>arXiv<br></em>
+		    <a href="https://arxiv.org/pdf/2301.02184.pdf">paper</a>
+		    <!--<a href="https://vision.cs.utexas.edu/projects/fs_rir/">project</a> |
+                    <a href="https://github.com/SAGNIKMJR/few-shot-rir">code and data</a>-->
+	    </td>
+	</tr>
+
+
 	<tr onmouseout="retro_embodiedAI_start()" onmouseover="retro_embodiedAI_stop()">
 	    <td width="35%">
 		<div class="one">

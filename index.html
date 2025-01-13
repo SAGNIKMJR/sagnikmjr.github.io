@@ -73,7 +73,7 @@
       <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
       <tr>
         <td width="67%" valign="middle">
-        <p>I am a PhD student in Computer Science at UT Austin, advised by <a href="https://www.cs.utexas.edu/users/grauman/">Prof.&nbsp;Kristen&nbsp;Grauman</a>. Before this, I received my MS in Computer Science at UT. I am broadly interested in computer vision and machine learning. My current line of research is embodied audio-visual understanding of 3D scenes with applications in mobile robotics and AR/VR.
+        <p>I am a PhD student in Computer Science at UT Austin, advised by <a href="https://www.cs.utexas.edu/users/grauman/">Prof.&nbsp;Kristen&nbsp;Grauman</a>. Before this, I received my MS in Computer Science at UT. I am broadly interested in computer vision and machine learning. My current line of research is multi-modal understanding of 3D scenes with applications in mobile robotics and AR/VR.
 
         </p>
         <p>
@@ -136,7 +136,7 @@
             <td width="22%" align="center"><font size="3">BITS Pilani<br>2014-2018</font></td>
             <td width="22%" align="center"><font size="3">FIAS<br>Summer 2017</font></td>
             <td width="22%" align="center"><font size="3">Goethe University<br>2018-2019</font></td>
-	    <td width="22%" align="center"><font size="3">Meta AI<br>2022-present</font></td>
+	    <td width="22%" align="center"><font size="3">Meta AI<br>2022-2024</font></td>
             <td width="22%" align="center"><font size="3">UT Austin<br>2019-present</font></td>
         </tr>
         </tbody>
@@ -310,6 +310,76 @@ Correspondence in Egocentric Videos".</td>
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
 
+        <tr onmouseout="retro_switchView_start()" onmouseover="retro_switchView_stop()">
+            <td width="35%">
+                <div class="one">
+                    <div class="two" id='retro_switchView'><img src='images/switch_a_view.png' alt="sym" width="100%"
+                                                    style="border-style: none"></div>
+                </div>
+                <script type="text/javascript">
+                    function retro_switchView_start() {
+                        document.getElementById('retro_switchView').style.opacity = "0.9";
+                    }
+
+                    function retro_switchView_stop() {
+                        document.getElementById('retro_switchView').style.opacity = "1";
+                    }
+
+                    friendly_stop()
+                </script>
+            </td>
+            <td valign="top" width="65%">
+                <p><a href="">
+                    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+                    <heading>Switch-a-View: Few-Shot View Selection Learned from Edited Videos</heading>
+                </a><br>
+                    <strong>Sagnik Majumder</strong>, Tushar Nagarajan, Ziad Al-Halah, Kristen Grauman<br>
+                    <!--<em>*Equal contribution<br></em>-->
+                    <em>ArXiv<br></em>
+                    <a href="https://arxiv.org/pdf/2412.18386.pdf">paper</a>
+                    | <a href="https://vision.cs.utexas.edu/projects/switch_a_view/">project</a>
+                    <!-- | <a href="https://vision.cs.utexas.edu/projects/ego_av_corr/">code and data (coming soon!)</a> -->
+                    <!-- | Media coverage: <a href="https://techxplore.com/news/2024-05-approach-efficiently-acoustics-environment.html">TechXplore</a> -->
+                    
+            </td>
+        </tr>
+
+
+        <tr onmouseout="retro_languageGuidedWeaklySupervisedViewSelection_start()" onmouseover="retro_languageGuidedWeaklySupervisedViewSelection_stop()">
+            <td width="35%">
+                <div class="one">
+                    <div class="two" id='retro_languageGuidedWeaklySupervisedViewSelection'><img src='images/languagedGuided_weaklySupervisedViewSelection.png' alt="sym" width="100%"
+                                                    style="border-style: none"></div>
+                </div>
+                <script type="text/javascript">
+                    function retro_languageGuidedWeaklySupervisedViewSelection_start() {
+                        document.getElementById('retro_languageGuidedWeaklySupervisedViewSelection').style.opacity = "0.9";
+                    }
+
+                    function retro_languageGuidedWeaklySupervisedViewSelection_stop() {
+                        document.getElementById('retro_languageGuidedWeaklySupervisedViewSelection').style.opacity = "1";
+                    }
+
+                    friendly_stop()
+                </script>
+            </td>
+            <td valign="top" width="65%">
+                <p><a href="">
+                    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+                    <heading>Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Videos</heading>
+                </a><br>
+                    <strong>Sagnik Majumder</strong>, Tushar Nagarajan, Ziad Al-Halah, Reina Pradhan, Kristen Grauman<br>
+                    <!--<em>*Equal contribution<br></em>-->
+                    <em>ArXiv<br></em>
+                    <a href="https://arxiv.org/pdf/2411.08753.pdf">paper</a> |
+                    <a href="https://vision.cs.utexas.edu/projects/which-view-shows-it-best//">project</a>
+                    <!-- | <a href="https://vision.cs.utexas.edu/projects/ego_av_corr/">code and data (coming soon!)</a> -->
+                    <!-- | Media coverage: <a href="https://techxplore.com/news/2024-05-approach-efficiently-acoustics-environment.html">TechXplore</a> -->
+                    
+            </td>
+        </tr>
+
+
         <tr onmouseout="retro_actvRIR_start()" onmouseover="retro_actvRIR_stop()">
             <td width="35%">
                 <div class="one">
@@ -365,7 +435,7 @@ Correspondence in Egocentric Videos".</td>
             </td>
             <td valign="top" width="65%">
                 <p><a href="">
-                    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+                    <!-- <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none"> -->
                     <heading>Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos</heading>
                 </a><br>
                     <strong>Sagnik Majumder</strong>, Ziad Al-Halah, Kristen Grauman<br>
@@ -398,7 +468,7 @@ Correspondence in Egocentric Videos".</td>
             </td>
             <td valign="top" width="65%">
                 <p><a href="">
-                    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+                    <!-- <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none"> -->
                     <heading>Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives</heading>
                 </a><br>
                     Kristen Grauman, Andrew Westbury, Lorenzo Torresani, ..., <strong>Sagnik Majumder</strong>, ..., Mike Zheng Shou, Michael Wray<br>

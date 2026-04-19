@@ -383,6 +383,44 @@ Correspondence in Egocentric Videos".</td>
 
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
+
+        <tr onmouseout="mist_exit_start()" onmouseover="mist_exit_stop()">
+            <td width="35%">
+                <div class="one">
+                    <div class="two" id='mist_exit'><img src='images/mist_exit.png' alt="sym" width="100%"
+                                                    style="border-style: none"></div>
+                </div>
+                <script type="text/javascript">
+                    function mist_exit_start() {
+                        document.getElementById('mist_exit').style.opacity = "0.9";
+                    }
+
+                    function mist_exit_stop() {
+                        document.getElementById('mist_exit').style.opacity = "1";
+                    }
+
+                    friendly_stop()
+                </script>
+            </td>
+            <td valign="top" width="65%">
+                <p><a href="">
+                    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+                    <!-- <heading>Switch-a-View: Few-Shot View Selection Learned from Edited Videos</heading> -->
+                    <heading>MistExit: Learning to Exit for Early Mistake Detection in Procedural Videos</heading>
+                </a><br>
+                    <strong>Sagnik Majumder</strong>, Anish Nethi, Ziad Al-Halah, Kristen Grauman<br>
+                    <!--<em>*Equal contribution<br></em>-->
+                    <em>In submission
+                        <br></em>
+                    <a href="https://arxiv.org/abs/2603.14252">paper</a>
+                    | <a href="https://vision.cs.utexas.edu/projects/mist_exit/">project</a>
+                    <!-- | <a href="https://vision.cs.utexas.edu/projects/ego_av_corr/">code and data (coming soon!)</a> -->
+                    <!-- | Media coverage: <a href="https://techxplore.com/news/2024-05-approach-efficiently-acoustics-environment.html">TechXplore</a> -->
+                    
+            </td>
+        </tr>
+
+
         <tr onmouseout="retro_avpose_start()" onmouseover="retro_avpose_stop()">
             <td width="35%">
                 <div class="one">
@@ -478,7 +516,7 @@ Correspondence in Egocentric Videos".</td>
             </td>
             <td valign="top" width="65%">
                 <p><a href="">
-                    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+                    <!-- <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none"> -->
                     <!-- <heading>Switch-a-View: Few-Shot View Selection Learned from Edited Videos</heading> -->
                     <heading>Switch-a-View: View Selection Learned from Unlabeled In-the-wild Videos</heading>
                 </a><br>
@@ -516,7 +554,7 @@ Correspondence in Egocentric Videos".</td>
             </td>
             <td valign="top" width="65%">
                 <p><a href="">
-                    <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none">
+                    <!-- <img src="images/new.png" alt="[NEW]" width="5%" style="border-style: none"> -->
                     <heading>Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Videos</heading>
                 </a><br>
                     <strong>Sagnik Majumder</strong>, Tushar Nagarajan, Ziad Al-Halah, Reina Pradhan, Kristen Grauman<br>
